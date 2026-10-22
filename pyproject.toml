@@ -1,3 +1,5 @@
+# Project configuration, packaging, and testing settings.
+
 [build-system]
 requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"

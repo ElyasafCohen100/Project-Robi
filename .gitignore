@@ -1,3 +1,5 @@
+# Exclude generated files, virtual environments, and local secrets.
+
 # Virtual environments
 .venv/
 
