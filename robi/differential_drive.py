@@ -41,12 +41,3 @@ def calculate_heading_change(left_distance: float, right_distance:float, wheel_s
     return(right_distance-left_distance) /wheel_separation
 
 # ================================================================================== #
-
-# Δs - by distance(by wheels) & theta(by wheels)
-
-
-
-
-
-
-# ================================================================================== #
